@@ -1,2 +1,2 @@
 # websites_html
-Personal portfolio, time management app.
+Personal portfolio, time management app, financial app
